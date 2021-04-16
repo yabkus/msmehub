@@ -1,1 +1,2 @@
 # msmehub
+For training purposes
